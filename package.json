@@ -1,0 +1,19 @@
+{
+  "name": "messengerbot",
+  "version": "1.0.0",
+  "description": "Develop a messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmar91/MessengerBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixmar91/MessengerBot/issues"
+  },
+  "homepage": "https://github.com/mixmar91/MessengerBot#readme"
+}
